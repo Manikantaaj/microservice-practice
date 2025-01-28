@@ -31,7 +31,11 @@
     </dependencyManagement>
 
     <dependencies>
-
+        <dependency>
+            <groupId>com.excel.socket.core</groupId>
+            <artifactId>spring-microservice-core</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
